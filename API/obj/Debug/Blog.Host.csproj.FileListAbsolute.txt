@@ -1,0 +1,154 @@
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\ApplicationInsights.config
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\csc.exe
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\vbc.exe
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\VBCSCompiler.exe
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\API.dll.config
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\API.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\API.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\DataModel.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\FluentNHibernate.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Iesi.Collections.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.Web.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.ApplicationInsights.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.Owin.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Newtonsoft.Json.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\NHibernate.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Owin.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\PersistenceLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\RazorEngine.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Extensions.LifetimeScoping.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Integration.WebApi.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Packaging.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Net.Http.Formatting.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Http.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Http.Owin.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Http.WebHost.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Razor.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\DataModel.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\PersistenceLayer.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\FluentNHibernate.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\FluentNHibernate.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Iesi.Collections.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.Web.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.ApplicationInsights.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.Owin.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Newtonsoft.Json.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\NHibernate.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\RazorEngine.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Extensions.LifetimeScoping.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Integration.WebApi.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\SimpleInjector.Packaging.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Http.Owin.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Razor.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Net.Http.Formatting.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Http.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\System.Web.Http.WebHost.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\obj\Debug\Blog.Host.csprojResolveAssemblyReference.cache
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\obj\Debug\API.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\obj\Debug\API.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Blog.Repositories.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Blog.Repositories.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Blog.Controllers.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\API\bin\Blog.Controllers.pdb
+C:\Repositoriy\flash\Blog\API\bin\ApplicationInsights.config
+C:\Repositoriy\flash\Blog\API\bin\roslyn\csc.exe
+C:\Repositoriy\flash\Blog\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repositoriy\flash\Blog\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repositoriy\flash\Blog\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repositoriy\flash\Blog\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repositoriy\flash\Blog\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repositoriy\flash\Blog\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repositoriy\flash\Blog\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Repositoriy\flash\Blog\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repositoriy\flash\Blog\API\bin\roslyn\vbc.exe
+C:\Repositoriy\flash\Blog\API\bin\roslyn\VBCSCompiler.exe
+C:\Repositoriy\flash\Blog\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Repositoriy\flash\Blog\API\bin\API.dll.config
+C:\Repositoriy\flash\Blog\API\bin\API.dll
+C:\Repositoriy\flash\Blog\API\bin\API.pdb
+C:\Repositoriy\flash\Blog\API\bin\Blog.Controllers.dll
+C:\Repositoriy\flash\Blog\API\bin\Blog.Repositories.dll
+C:\Repositoriy\flash\Blog\API\bin\DataModel.dll
+C:\Repositoriy\flash\Blog\API\bin\FluentNHibernate.dll
+C:\Repositoriy\flash\Blog\API\bin\Iesi.Collections.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.Web.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.WindowsServer.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.ApplicationInsights.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.Owin.dll
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repositoriy\flash\Blog\API\bin\Newtonsoft.Json.dll
+C:\Repositoriy\flash\Blog\API\bin\NHibernate.dll
+C:\Repositoriy\flash\Blog\API\bin\Owin.dll
+C:\Repositoriy\flash\Blog\API\bin\PersistenceLayer.dll
+C:\Repositoriy\flash\Blog\API\bin\RazorEngine.dll
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.dll
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Extensions.LifetimeScoping.dll
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Integration.WebApi.dll
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Packaging.dll
+C:\Repositoriy\flash\Blog\API\bin\System.Net.Http.Formatting.dll
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Http.dll
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Http.Owin.dll
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Http.WebHost.dll
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Razor.dll
+C:\Repositoriy\flash\Blog\API\bin\Blog.Controllers.pdb
+C:\Repositoriy\flash\Blog\API\bin\Blog.Repositories.pdb
+C:\Repositoriy\flash\Blog\API\bin\DataModel.pdb
+C:\Repositoriy\flash\Blog\API\bin\PersistenceLayer.pdb
+C:\Repositoriy\flash\Blog\API\bin\FluentNHibernate.pdb
+C:\Repositoriy\flash\Blog\API\bin\FluentNHibernate.xml
+C:\Repositoriy\flash\Blog\API\bin\Iesi.Collections.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.Web.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.ApplicationInsights.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.Owin.xml
+C:\Repositoriy\flash\Blog\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repositoriy\flash\Blog\API\bin\Newtonsoft.Json.xml
+C:\Repositoriy\flash\Blog\API\bin\NHibernate.xml
+C:\Repositoriy\flash\Blog\API\bin\RazorEngine.xml
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.xml
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Extensions.LifetimeScoping.xml
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Integration.WebApi.xml
+C:\Repositoriy\flash\Blog\API\bin\SimpleInjector.Packaging.xml
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Http.Owin.xml
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Razor.xml
+C:\Repositoriy\flash\Blog\API\bin\System.Net.Http.Formatting.xml
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Http.xml
+C:\Repositoriy\flash\Blog\API\bin\System.Web.Http.WebHost.xml
+C:\Repositoriy\flash\Blog\API\obj\Debug\Blog.Host.csprojResolveAssemblyReference.cache
+C:\Repositoriy\flash\Blog\API\obj\Debug\API.dll
+C:\Repositoriy\flash\Blog\API\obj\Debug\API.pdb

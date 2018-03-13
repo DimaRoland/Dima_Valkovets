@@ -1,0 +1,5 @@
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.dacpac
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

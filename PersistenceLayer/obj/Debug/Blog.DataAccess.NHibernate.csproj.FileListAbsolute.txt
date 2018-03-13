@@ -1,0 +1,62 @@
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\PersistenceLayer.dll.config
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\PersistenceLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\PersistenceLayer.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\DataModel.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\FluentNHibernate.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\Iesi.Collections.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\Newtonsoft.Json.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\NHibernate.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.LifetimeScoping.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Integration.WebApi.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Packaging.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\System.Net.Http.Formatting.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\System.Web.Http.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\DataModel.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\FluentNHibernate.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\FluentNHibernate.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\Iesi.Collections.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\Newtonsoft.Json.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\NHibernate.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.LifetimeScoping.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Integration.WebApi.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Packaging.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\System.Net.Http.Formatting.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\bin\Debug\System.Web.Http.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\obj\Debug\Blog.DataAccess.NHibernate.csprojResolveAssemblyReference.cache
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\obj\Debug\PersistenceLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\PersistenceLayer\obj\Debug\PersistenceLayer.pdb
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\PersistenceLayer.dll.config
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\PersistenceLayer.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\PersistenceLayer.pdb
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\DataModel.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\FluentNHibernate.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\Iesi.Collections.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\NHibernate.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.LifetimeScoping.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Packaging.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\System.Web.Http.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\DataModel.pdb
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\FluentNHibernate.pdb
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\FluentNHibernate.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\Iesi.Collections.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\NHibernate.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Extensions.LifetimeScoping.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\SimpleInjector.Packaging.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\bin\Debug\System.Web.Http.xml
+C:\Repositoriy\flash\Blog\PersistenceLayer\obj\Debug\Blog.DataAccess.NHibernate.csprojResolveAssemblyReference.cache
+C:\Repositoriy\flash\Blog\PersistenceLayer\obj\Debug\PersistenceLayer.dll
+C:\Repositoriy\flash\Blog\PersistenceLayer\obj\Debug\PersistenceLayer.pdb

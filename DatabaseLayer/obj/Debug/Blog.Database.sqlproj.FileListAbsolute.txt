@@ -1,0 +1,14 @@
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\bin\Debug\Blog.Database.dacpac
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\Model.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\refactor.xml
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\postdeploy.sql
+c:\Users\dval\documents\visual studio 2015\Projects\Blog\DatabaseLayer\obj\Debug\predeploy.sql
+C:\Repositoriy\flash\Blog\DatabaseLayer\bin\Debug\Blog.Database.dacpac
+C:\Repositoriy\flash\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Repositoriy\flash\Blog\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Repositoriy\flash\Blog\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Repositoriy\flash\Blog\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
